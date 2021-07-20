@@ -1,5 +1,5 @@
 body{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     
 }
@@ -21,10 +21,11 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background-color: tomato;
-    padding: 5px 15px;
+    background-image: linear-gradient(salmon,tomato);
+    padding: 10px 40px;
     border-radius: 5px;
     color: white;
+    font-weight: 700;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
