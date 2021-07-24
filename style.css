@@ -6,6 +6,7 @@ body{
 .half-width{
     width: 50%;
     padding-left: 5%;
+    margin-top: 50px;
 }
 .flexible-container{
     display: flex;
